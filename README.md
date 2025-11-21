@@ -34,20 +34,21 @@ Input Fields: 15 numerical + 1 categorical
 
 📥 Features Used in Prediction
 Feature	Description
-OverallQual	Overall material and finish quality
-GrLivArea	Above grade (ground) living area
-GarageArea	Garage size in square feet
-1stFlrSF	First floor square feet
-FullBath	Full bathrooms above grade
-YearBuilt	Original construction date
-YearRemodAdd	Remodel year
-MasVnrArea	Masonry veneer area
+
+OverallQual	Overall material and finish quality,
+GrLivArea	Above grade (ground) living area,
+GarageArea	Garage size in square feet,
+1stFlrSF	First floor square feet,
+FullBath	Full bathrooms above grade,
+YearBuilt	Original construction date,
+YearRemodAdd	Remodel year,
+MasVnrArea	Masonry veneer area,
 Fireplaces	Number of fireplaces
-BsmtFinSF1	Finished basement area
-LotFrontage	Linear feet of street connected to property
-WoodDeckSF	Wood deck area
-OpenPorchSF	Open porch area
-LotArea	Lot size in square feet
+BsmtFinSF1	Finished basement area,
+LotFrontage	Linear feet of street connected to property,
+WoodDeckSF	Wood deck area,
+OpenPorchSF	Open porch area,
+LotArea	Lot size in square feet,
 CentralAir	Air conditioning: Yes/No
 
 📁 Project Structure
