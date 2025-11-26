@@ -51,12 +51,6 @@ OpenPorchSF	Open porch area,
 LotArea	Lot size in square feet,
 CentralAir	Air conditioning: Yes/No
 
-📁 Project Structure
-📦 House Price Prediction App
-├── app.py               # Streamlit main application
-├── xgb_model.jb         # Trained XGBoost model
-├── README.md            # Documentation
-└── requirements.txt     # Dependencies
 
 🚀 Deployment
 
